@@ -96,7 +96,7 @@
 
 .aligned-text {
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -115,7 +115,7 @@
 
 .aligned-text_center {
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif; 
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -127,7 +127,7 @@
 
 .aligned-text_right {
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 100px;
     font-style: normal;
     font-weight: 700;
@@ -151,7 +151,7 @@
 
 .cover__description-text {
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
@@ -167,7 +167,7 @@
     border: solid 1px white;
     color: #FFF;
     text-align: center;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 400;
@@ -189,7 +189,7 @@
     display: flex;
     position: absolute;
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -203,7 +203,7 @@
     position: absolute;
     padding: 554px 1108px 0 40px;
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -271,7 +271,7 @@
     position: absolute;
     z-index: 3;
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 22px;
     font-style: normal;
     font-weight: 700;
@@ -287,7 +287,7 @@
     position: absolute;
     z-index: 3;
     color: #FFF;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -330,7 +330,7 @@
     margin-top: 100px;
     margin-bottom: 100px;
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -340,7 +340,7 @@
 
 .about__text {
     color: #000;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
@@ -422,4 +422,3 @@
     display: flex;
     box-sizing: border-box;
 }
-
