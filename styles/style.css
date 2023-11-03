@@ -64,7 +64,7 @@
     position: relative;
     background-position: center;
     flex-direction: column;
-    z-index: -2;
+    z-index: 1;
 }
 
 .overlay {
@@ -230,7 +230,7 @@
     width: 100%;
     flex-grow: 1;
     padding: 50px 40px;
-    z-index: -2;
+    z-index: 1;
     position: relative;
 }
 
